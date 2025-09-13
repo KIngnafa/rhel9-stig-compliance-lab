@@ -1,7 +1,7 @@
-# rhel9-stig-compliance-lab
+# RHEL9-STIG-compliance-lab
 🔸 Project Overview
 
-This project demonstrates end-to-end DISA STIG compliance for a RHEL9 EC2 instance in AWS. It includes baseline scanning, automated hardening with Ansible, post-hardening validation with OpenSCAP, continuous monitoring with AIDE, and documentation of residual findings in a POA&M.
+* This project demonstrates end-to-end DISA STIG compliance for a RHEL9 EC2 instance in AWS. It includes baseline scanning, automated hardening with Ansible, post-hardening validation with OpenSCAP, continuous monitoring with AIDE, and documentation of residual findings in a POA&M.
 
 🔸 Tools & Frameworks
 
