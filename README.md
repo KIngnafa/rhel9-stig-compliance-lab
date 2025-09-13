@@ -39,18 +39,9 @@ This project demonstrates end-to-end DISA STIG compliance for a RHEL9 EC2 instan
 
 ---
 
-## 📜 Certifications
-- **AWS Certified Solutions Architect – Associate** (2023)  
-- **CompTIA Security+** (Earned 2022)  
-- **CompTIA Cloud+** (Earned 2021)  
-- **AWS Certified DevOps Engineer – Professional** (In Progress)  
-- **Microsoft Azure Administrator Associate (Planned 2025)**  
-
----
-
 ## 📚 References & Documentation
 - [DISA STIG for RHEL9](https://public.cyber.mil/stigs/)  
 - [OpenSCAP Documentation](https://www.open-scap.org/getting-started/)  
 - [Ansible Lockdown RHEL9-STIG Role](https://github.com/ansible-lockdown/RHEL9-STIG)  
-- [Google Doc – Full Project Documentation](https://docs.google.com/document/d/your-doc-id/view)  
+- [Google Doc – Full Project Documentation](https://docs.google.com/document/d/1EFSAkBOZ7geQekXwisGnjG68mBQH5NNyo4S7KewH3dA/edit?tab=t.0#heading=h.ffrju7o3rjjr)  
 
